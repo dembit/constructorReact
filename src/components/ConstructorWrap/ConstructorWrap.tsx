@@ -49,7 +49,7 @@ const ConstructorWrap = () => {
             <ConstructorButtonStyle>
                 <ButtonStyle size="large" onClick={() => {
                     alert("Constructor Create successfully")
-                    history.push("/create")
+                    history.push("/constructor/create")
                     dispatch(setPreview(true))
                     setIsShowPreview(true)
                 }} type="primary" >Save layout</ButtonStyle>

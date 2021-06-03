@@ -27,8 +27,8 @@ function App() {
     <BrowserRouter>
       <Switch>
         <AppDivStyle>
-          <Route path='/' exact component={ConstructorWrap} />
-          <Route path='/create' component={CreateTemplate} /> 
+          <Route path='/constructor' exact component={ConstructorWrap} />
+          <Route path='/constructor/create' component={CreateTemplate} /> 
         </AppDivStyle>
       </Switch>
     </BrowserRouter>
