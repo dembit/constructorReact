@@ -71,9 +71,9 @@ react-h5-audio-player, typescript.</p>
 
             <p>Now we can see Constructor which creates a specific type of template</p>
             <p>This one consists of several blocks(such as slider,  title,  text, music,  document, video, photo)</p>
-            <p>these blocks can be select  in the pop up
+            <p>these blocks can be selected  in the pop up
             also when copying a certain block it will appear in this pop up.
-             Its will be remove move and add to any position. </p>
+             Its will be removed moved and added to any position. </p>
             <p>the constructor has a preview, drag and drop.
             the whole project is typed on the client side what tools i used for this project</p>
 
