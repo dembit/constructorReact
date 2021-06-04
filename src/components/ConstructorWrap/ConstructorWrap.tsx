@@ -57,7 +57,7 @@ const ConstructorWrap = () => {
             <br />
             <p>Какие инструменты я использовал для этого проекта:</p>
             <p>Webpack, CreateReactApp, React, StyledComponent, ReduxToolKit, Ant design, react-multi-carousel, video-react,
-react-h5-audio-player, typescript.</p>
+            react-h5-audio-player, typescript.</p>
             <p>Теперь нажимаем кнопку 'ADD CONSTRUCTOR' и смотрим)))</p>
 
 
@@ -75,9 +75,9 @@ react-h5-audio-player, typescript.</p>
             also when copying a certain block it will appear in this pop up.
              Its will be removed moved and added to any position. </p>
             <p>the constructor has a preview, drag and drop.
-            the whole project is typed on the client side what tools i used for this project</p>
+            the whole project is typed on the client side</p>
 
-            <p>What is tools i'm use:</p>
+            <p>What is tools i'm used:</p>
             <p>Webpack, CreateReactApp, React, StyledComponent, ReduxToolKit, Ant design, react-multi-carousel, video-react,
             react-h5-audio-player, typescript.</p>
             <p>Now press the button above 'ADD CONSTRUCTOR'</p>
